@@ -1,5 +1,5 @@
-# SWR_NANO_asd1115_1.8tft
- The software is free to use. It is a SWR meter built with an NANO, ASD1115 and a tft 1.8 ST7735. 
+# SWR_NANO_ads1115_1.8tft
+ The software is free to use. It is a SWR meter built with an NANO, ADS1115 and a tft 1.8 ST7735. 
  Current version has a relay protection.
 
 The script was written for a TFT 1.8 128 X 160 screen. 
