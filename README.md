@@ -1,3 +1,10 @@
+Latest version V2 is made for IDE 2.3.8. Older versions V1 only works on IDE 1.8. X and lower.
+
+Adafruit has made some changes for IDE 2.3.8. Normal you can use Adafruit_ADS1115 ads (0X48) ; // AD converter module address. This wont work anymore. You have to change for a older version within IDE 2.3.8 to this Adafruit_ADS1115 ads;
+
+(0X48) is not necessary anymore
+
+
 # SWR_NANO_ads1115_1.8tft (this little project is under construction)
  The software is free to use. It is a SWR meter built with an NANO, ADS1115 and a tft 1.8 ST7735. 
  Current version has a relay protection.
